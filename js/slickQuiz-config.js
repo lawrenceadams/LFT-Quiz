@@ -208,7 +208,7 @@ var quizJSON = {
 			"correct": false
 		}, {
 			"option": "Prothrombin time (<strong>PT</strong>)",
-			"corect": true
+			"correct": true
 		}],
 		"correct": "<p><span>Correct!</span>Well done!</p>",
 		"incorrect": "<p><span>Incorrect.</span>Prothrombin time (or <strong>PT</strong>) is a indicator of clotting function, and is a <em>true</em> liver function test."
