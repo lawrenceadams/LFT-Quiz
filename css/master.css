@@ -54,8 +54,8 @@ ol li { list-style-type: decimal; margin-left: 20px; }
 
 footer {
     font-style: italic;
-    color: grey;
     text-align: center;
+    color: grey;
 }
 
 .button {
