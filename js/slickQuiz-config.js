@@ -40,8 +40,8 @@ var quizJSON = {
 			"option": "Alcoholic Liver Disease",
 			"correct": false
 		}],
-		"correct": "<p><span>Correct!</span>A very high ALT is likely to be a hepatitis of some form (<em>autoimmune, drug incduced, viral</em>).</p>",
-		"incorrect": "<p><span>Incorrect.</span>A very high ALT is likely to be a hepatitis of some form (<em>autoimmune, drug incduced, viral</em>).</p>"
+		"correct": "<p><span>Correct!</span>A very high ALT is likely to be a hepatitis of some form (<em>autoimmune, drug induced, viral</em>).</p>",
+		"incorrect": "<p><span>Incorrect.</span>A very high ALT is likely to be a hepatitis of some form (<em>autoimmune, drug induced, viral</em>).</p>"
 	}, { // True/false
 		"q": "Alkaline phosphatase(<em>ALP</em>) is a cholestatic enzyme?",
 		"a": [{
