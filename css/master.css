@@ -52,6 +52,12 @@ ul { list-style-type: circle; }
 ol { list-style-type: decimal; }
 ol li { list-style-type: decimal; margin-left: 20px; }
 
+footer {
+    font-style: italic;
+    color: grey;
+    text-align: center;
+}
+
 .button {
     float: left;
     width: auto;
