@@ -134,7 +134,7 @@ var quizJSON = {
 		"correct": "<p><span>Correct!</span>Well done!</p>",
 		"incorrect": "<p><span>Incorrect.</span>Albumin is made up of amino acids from ingested protein in the liver.<br>Can also be decreased by: Diarrhoea, Liver disease, Iron deficiency, Infection.</p>"
 	}, {
-		"q": "Elevated levels of this enzymes indicates obstruction or cholestatic liver disease:",
+		"q": "Elevated levels of this enzyme indicates obstruction or cholestatic liver disease:",
 		"a": [{
 			"option": "Alanine Transaminase (<strong>ALT</strong>)",
 			"correct": false
